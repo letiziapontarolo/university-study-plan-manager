@@ -1,3 +1,5 @@
+![University Study Plan Manager](assets/cover.png)
+
 # University Study Plan Manager
 
 A web application developed as an academic project for the *Web Services and Computer Networks Design* course (2021–2022).
