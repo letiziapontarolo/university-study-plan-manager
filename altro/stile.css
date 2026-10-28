@@ -1,0 +1,57 @@
+a:link#loginON {color: black; text-decoration: none;}
+a:link#loginOFF {color: black; text-decoration: none;}
+a:link#logoutON {color: black; text-decoration: none;}
+a:link#logoutOFF {color: black; text-decoration: none;}
+a:link#home2 {color: black; text-decoration: none;}
+a:link#info2 {color: black; text-decoration: none;}
+a:link#piano2 {color: black; text-decoration: none;}
+a:link#piano2OFF {color: black; text-decoration: none;}
+a:link#gestione2 {color: black; text-decoration: none;}
+a:link#gestione2OFF {color: black; text-decoration: none;}
+
+a:visited#loginON {color: black; text-decoration: none;}
+a:visited#loginOFF {color: black; text-decoration: none;}
+a:visited#logoutON {color: black; text-decoration: none;}
+a:visited#logoutOFF {color: black; text-decoration: none;}
+a:visited#home2 {color: black; text-decoration: none;}
+a:visited#info2 {color: black; text-decoration: none;}
+a:visited#piano2 {color: black; text-decoration: none;}
+a:visited#piano2OFF {color: black; text-decoration: none;}
+a:visited#gestione2 {color: black; text-decoration: none;}
+a:visited#gestione2OFF {color: black; text-decoration: none;}
+
+a:hover#loginON {color: blue; text-decoration: none;}
+a:hover#loginOFF {color: black; text-decoration: none;}
+a:hover#logoutON {color: blue; text-decoration: none;}
+a:hover#logoutOFF {color: black; text-decoration: none;}
+a:hover#home2 {color: blue; text-decoration: none;}
+a:hover#info2 {color: blue; text-decoration: none;}
+a:hover#piano2 {color: blue; text-decoration: none;}
+a:hover#piano2OFF {color: black; text-decoration: none;}
+a:hover#gestione2 {color: blue; text-decoration: none;}
+a:hover#gestione2OFF {color: black; text-decoration: none;}
+
+a:active#loginON {color: blue; text-decoration: none;}
+a:active#loginOFF {color: black; text-decoration: none;}
+a:active#logoutON {color: blue; text-decoration: none;}
+a:active#logoutOFF {color: black; text-decoration: none;}
+a:active#home2 {color: blue; text-decoration: none;}
+a:active#info2 {color: blue; text-decoration: none;}
+a:active#piano2 {color: blue; text-decoration: none;}
+a:active#piano2OFF {color: black; text-decoration: none;}
+a:active#gestione2 {color: blue; text-decoration: none;}
+a:active#gestione2OFF {color: black; text-decoration: none;}
+
+footer {font-style: italic; font-family: serif; ; font-size: 80% ; border-top-style: dotted; border-top-color: black;} 
+div.intestazione {font-family: serif; ; font-size: 90%; text-align: right; }
+header {text-align: center; border-bottom-style: dotted;}
+
+div.attivaDisattivaCorso { grid-area: attivaDisattivaCorso }
+div.inserisciNuovoCorso { grid-area: inserisciNuovoCorso }
+div.grid-container {display: grid; grid-template-areas:'attivaDisattivaCorso inserisciNuovoCorso ';}
+div.warning {padding: 1%; color: red; font-size: 110%;}
+div.ok {padding: 1%; color: blue; font-size: 110%;}
+div.pulsante {padding: 0.5%;}
+div.totaleCrediti {font-weight: bold;}
+div.ING {font-weight: bold; padding-top: 0.5%; padding-bottom: 0.5%;}
+div.centro {padding-bottom: 0.5%;}
