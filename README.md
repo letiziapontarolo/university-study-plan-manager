@@ -2,7 +2,7 @@
 
 # University Study Plan Manager
 
-A web application developed as an academic project for the *Progettazione di servizi web e reti di calcolatori* (Web Services Design and Computer Networks) course (2021–2022).
+A web application developed as an academic project for the *Progettazione di servizi web e reti di calcolatori* (Web Services Design and Computer Networks) course (2021–2022) at Politecnico di Torino.
 
 The application simulates a university study plan management system, allowing students to select courses and academic administrators to manage the course catalogue.
 
